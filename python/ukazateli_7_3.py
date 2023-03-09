@@ -10,3 +10,4 @@ print(my_backpack.add)
 my_backpack.add(item='ноутбук')
 print(my_backpack)
 
+Backpack.add(self=my_backpack, item='ноутбук')
